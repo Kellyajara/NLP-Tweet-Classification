@@ -7,6 +7,14 @@ By: Kelly Jara
 ## Overview
 This project analyzes a dataset with curated tweets on google and apple products. In the dataset we have user tweets alongside with the products they are tweeting about and whether or not their tweet is depicting positive or negative emotions. Using this data, we were able to use NLP (Natural Language Processing) techniques to create a classification model that is able to predict whether a tweet has a positive or negative sentiment. 
 
+Positive Tweet WordCloud:
+
+![pos_wordcloud](https://github.com/Kellyajara/Project_4/assets/127794801/b0276ae0-cf90-4be7-ab4b-0fb9637fe60c)
+
+Negative Tweet WordCloud:
+
+![neg_wordcloud](https://github.com/Kellyajara/Project_4/assets/127794801/3e1744b1-ff7c-4c26-a363-4673855c9ff9)
+
 
 ## Business Problem
 An emerging tech company is looking to get an idea of what consumers are saying about other companies, like Google and Apple, to see where they can look to improve their future models in order to compare to these top sellers. How can we analyze tweets about our products and determine if they are negative or positive? Can this help build rapport with our consumers and give us insight into how we can better our future models/services?
